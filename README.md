@@ -1,1 +1,11 @@
-# codetech-task-1
+COMPANY: CODTECH IT SOLUTIONS
+
+NAME:KAMMAKATTU GOPALKRISHNAREDDY
+
+INTERN ID:CT04DF1685
+
+DOMAIN: Embedded Systems
+
+DURATION: 4 WEEKS
+
+MENTOR: Neela Santhosh Kumar# codetech-task-1
